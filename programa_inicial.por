@@ -5,7 +5,7 @@ programa
 	{
 		escreva("Olá Mundo\n")
 		escreva("OUTRA LINHA\n")
-		escreva("TERCEIRA LINHA\n")
+		escreva("LINHA A MAIS MAIS")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -13,7 +13,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 112; 
+ * @POSICAO-CURSOR = 113; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
