@@ -1,0 +1,34 @@
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from master to staging
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from staging to master
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{2}: checkout: moving from master to staging
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: checkout: moving from staging to master
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{4}: checkout: moving from master to staging
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{5}: merge staging: Fast-forward
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from staging to master
+[33m92d92b2[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{7}: commit: inserindo novo sistema
+[33mb276cd8[m HEAD@{8}: checkout: moving from master to staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from staging to master
+[33mb276cd8[m HEAD@{10}: checkout: moving from master to staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{11}: checkout: moving from staging to master
+[33mb276cd8[m HEAD@{12}: checkout: moving from master to staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{13}: checkout: moving from staging to master
+[33mb276cd8[m HEAD@{14}: checkout: moving from master to staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{15}: checkout: moving from main to master
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{16}: checkout: moving from master to main
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{17}: checkout: moving from staging to master
+[33mb276cd8[m HEAD@{18}: commit: primeira aleracao na branch staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{19}: checkout: moving from master to staging
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{20}: reset: moving to 4202dd9
+[33me8e49c3[m HEAD@{21}: reset: moving to e8e49c3
+[33m4202dd9[m[33m ([m[1;32mmain[m[33m)[m HEAD@{22}: commit: versao01
+[33me8e49c3[m HEAD@{23}: commit: terminando agora
+[33md568678[m HEAD@{24}: commit: terceiro commit
+[33ma92dcc2[m HEAD@{25}: commit: inicio de hoje
+[33m3be786a[m HEAD@{26}: commit: alterando no git hub
+[33m513bd80[m HEAD@{27}: commit: primeira conferencia no github
+[33m71e00db[m HEAD@{28}: commit: voltei a inserir a terceria
+[33m42e6ed9[m HEAD@{29}: commit: so deixei 2 linhas
+[33m73273f6[m HEAD@{30}: commit: quarta linha
+[33mba31018[m HEAD@{31}: commit: alterando a linha 3
+[33mc33b769[m HEAD@{32}: commit: versionando programa 1
+[33m4921e7b[m HEAD@{33}: commit (initial): primeiro commit
