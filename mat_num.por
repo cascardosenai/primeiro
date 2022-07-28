@@ -50,9 +50,8 @@ programa
         	caso contrario :escreva("OPÇÃO INVÁLIDA")
         	
         	}
-
-          escreva("\n OBRIGADO POR UTILIZAR O SISTEMA L.S.A")
           
+              
     	}
 
 	
@@ -62,7 +61,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1205; 
+ * @POSICAO-CURSOR = 1158; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
