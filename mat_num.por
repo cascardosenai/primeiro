@@ -44,7 +44,7 @@ programa
 
         	caso '/' :
         	total = primeiro / segundo
-        	escreva("O TOTAL SERÁ ",total)
+        	escreva("O TOTAL É",total)
         	pare 
 
         	caso contrario :escreva("OPÇÃO INVÁLIDA")
@@ -61,7 +61,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1148; 
+ * @POSICAO-CURSOR = 1046; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
