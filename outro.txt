@@ -1,0 +1,7 @@
+1 - Abra uma sistema em portugol
+2 - crie um diretório do zero "GIT"
+3-  atrelar este novo GIT a um novo github em um nome email.
+4 - salve o sistema em portugol dentro deste novo git 
+5 - Dê os comandos válidos para dentro do Git local
+6 - Suba para o github 
+7 - Atualize  "git pull"
